@@ -10,8 +10,11 @@ Output: 1
 
 Explanation: The board is-
 a g b c
+
 q e e l
+
 g b k s
+
 The letters which are used to make the
 "geeks" are colored.
 
@@ -23,8 +26,11 @@ Output: 0
 
 Explanation: The board is-
 a b c e
+
 s f c s
+
 a d e e
+
 Same letter can not be used twice hence ans is 0
 
 **Your Task**:
