@@ -28,4 +28,4 @@ The task is to complete the function makeUnion() which makes the union of the gi
 **Expected Auxiliary Space**: O(N+M)
 
 **Constraints**:
-1<=N,M<=104
+1<=N,M<=10^4
