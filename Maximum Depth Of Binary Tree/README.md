@@ -7,9 +7,13 @@ A binary tree's maximum depth is the number of nodes along the longest path from
 
 Input:
  root  -->     1
+
              /   \
+
             3     2
+
            /
+
           4           
 
 Output: 3
@@ -21,11 +25,17 @@ Maximum depth is between nodes 1 and 4, which is 3.
 
 Input:
  root -->    10
+
            /    \
+
           20    30
+
            \      \  
+
            40     60
+
                   /
+                  
                  2 
 
 Output: 4
