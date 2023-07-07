@@ -6,7 +6,9 @@ A binary tree's maximum depth is the number of nodes along the longest path from
 **Example 1**:
 
 Input:
- root  -->     1
+ root  -->     
+ 
+               1
 
              /   \
 
@@ -24,7 +26,9 @@ Maximum depth is between nodes 1 and 4, which is 3.
 **Example 2**:
 
 Input:
- root -->    10
+ root -->    
+
+            10
 
            /    \
 
@@ -35,7 +39,7 @@ Input:
            40     60
 
                   /
-                  
+
                  2 
 
 Output: 4
